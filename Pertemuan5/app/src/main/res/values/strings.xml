@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="hmj_name">Pemain Basket</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Tim Ducan</item>
+        <item>Shaquille O'Neal</item>
+        <item>Kobe Bryant</item>
+        <item>Oscar Robertson</item>
+        <item>Wilt Chamberlain</item>
+        <item>Larry Bird</item>
+        <item>Kareem Abdul-Jabbar</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bermain sejak tahun 1997 hingga saat ini, Tim Duncan dikenal sebagai salah satu pemain basket terbaik yang melegenda bersama San
+            Antonio Spurs. Duncan tak hanya piawai dan memiliki skill yang luar biasa, namun juga dikenal sebagai pemain yang sangat tenang
+            serta memiliki kepemimpinan yang tinggi. Wajar bila kemudian ia berhasil masuk dalam daftar ini.</item>
+        <item>Sosok raksasa yang berdiri di bawah ring basket LA Lakers, Miami Heat, dan Orlando Magic ini.  Ya, dalam 9 tahun karirnya sebagai
+            pebasket profesional yang berakhir pada tahun 2011 lalu, O'Neal berhasil meraih puluhan gelar individu maupun tim.  Hingga saat ini,
+            O'Neal juga dikenal sebagai salah satu center NBA terbaik sepanjang masa.</item>
+        <item>Kobe Bryant terhitung lima kali mempersembahkan gelar juara untuk LA. Lakers.  Hingga saat ini, Kobe berada di peringkat keempat
+            pemain NBA yang paling banyak mencetak skor, total sebanyak 31.617 poin.  Hebatnya, semua poin tersebut ia lesakkan bersama tim yang
+            sama, L.A. Lakers.</item>
+        <item>Pemain kulit hitam yang berkarir di antara tahun 1960 sampai 1974 ini sebenarnya tidak memiliki penghargaan individual yang terlalu
+            mentereng. Ia tercatat hanya satu kali memenangi penghargaan MVP, namun apabila kita cermati lebih seksama, secara statistik, penampilan
+            individual Oscar Robertson di atas lapangan benar-benar luar biasa.</item>
+        <item>Wilt Chamberlain juga dikenal sebagai seorang pemain yang bisa mencetak lebih dari 100 poin dalam satu game.  Jika saja ia memiliki
+            skill kepemimpinan yang baik, mungkin saja Wilt Chamberlain bisa masuk ke dalam posisis tiga besar daftar ini.</item>
+        <item>Larry Bird adalah satu-satunya pemain berkulit putih yang berhasil masuk ke dalam daftar 10 pemain basket terbaik di dunia versi
+            FoxSports ini. Pemain yang juga kini dikenal sebagai salah satu pelatih NBA terbaik ini juga menorehkan berbagai catatan prestasi
+            gemilang sepanjang periode aktifnya dari tahun 1979 hingga tahun 1992. </item>
+        <item>sebelum era Shaquille O'Neal dan Kobe Bryant, L.A. Lakers sudah memiliki seorang legenda.  Ya, Kareem Abdul Jabbar adalah sosok
+            pemain luar biasa, yang hingga saat ini berada di posisi nomor satu sebagai pencetak skor terbanyak sepanjang sejarah NBA.  Dalam 20
+            tahun karirnya, total Kareem Abdul-Jabbar mencetak 38.387 poin. </item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://www.thefamouspeople.com/profiles/images/tim-duncan-3.jpg</item>
+        <item>https://salary-slip.com/wp-content/uploads/2017/05/shaquille-o-neal-salary-history-130606110844-kobe-bryant-forbes-super-169.jpg</item>
+        <item>http://a.espncdn.com/photo/2013/1219/nba_a_kobe-bryant2_mb_1296x729.jpg</item>
+        <item>http://i.ytimg.com/vi/cPdQ7EhCYa8/hqdefault.jpg</item>
+        <item>https://www.jvmlending.com/wp-content/uploads/2016/12/larry-bird.jpg</item>
+        <item>https://www.memphisflyer.com/blogimages/2009/12/17/1261090794-kareem_abdul_jabbar_skyhook.jpg</item>
+    </string-array>
+</resources>
