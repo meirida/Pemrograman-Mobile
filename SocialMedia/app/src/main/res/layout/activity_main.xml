@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/images"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:background="#4D000000"
+            android:drawablePadding="4dp"
+            android:padding="8dp"
+            android:text="Kalian suka pakai yang mana?"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@android:color/white" />
+    </FrameLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:padding="16dp"
+        android:id="@+id/rv_hmj"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cardview_shadow_start_color"
+        tools:listitem="@layout/item_card_hmj"/>
+</LinearLayout>
